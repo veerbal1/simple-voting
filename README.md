@@ -230,16 +230,6 @@ Solana requires accounts to maintain a minimum balance (rent). This program:
 
 ---
 
-## 🎯 Next Steps for Learning
-
-1. **Add vote counting**: Create a global counter account
-2. **Implement voting periods**: Add start/end timestamps
-3. **Multiple choice voting**: Extend beyond two options
-4. **Weighted voting**: Add token-based voting power
-5. **Result verification**: Add view functions to query results
-
----
-
 ## 📚 Resources
 
 - [Anchor Documentation](https://www.anchor-lang.com/)
